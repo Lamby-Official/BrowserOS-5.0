@@ -1,0 +1,26 @@
+## Browser OS 1.6 – What's New
+
+### 📧 Mail App
+Browser OS now includes an improved built-in Mail app.
+
+- Sign in using your email address and password or an app password.
+- Read messages directly inside Browser OS.
+- Send emails to other addresses.
+- Automatically check for new emails.
+- Desktop notifications when new emails arrive.
+- Notifications can be enabled or disabled.
+- Open and read email contents.
+- Refresh your inbox manually.
+- Sign out of your account.
+- Clean and modern Mail interface.
+
+### 🖥️ Desktop Improvements
+The Browser OS desktop now has more built-in apps, shortcuts, widgets, and system tools for a more complete desktop experience.
+
+### 🌍 Browser
+The existing Browser OS browser remains the core of the system, with tabs, navigation, downloads, bookmarks, sessions, extensions, developer tools, and customizable start pages.
+
+### 🔒 Account & Security
+Passwords are not included in the public Browser OS source code. Users should use an app password when their email provider requires one.
+
+**Browser OS 1.6** brings the Browser OS experience closer to a complete desktop environment while keeping the browser at its center.
